@@ -1,0 +1,34 @@
+.List{
+    border:1px solid #435C70;
+    background-color: #435C70;
+    height:220px;
+    padding-left:40px;
+    padding-right:40px;
+    box-sizing: border-box;
+    box-shadow:2px 4px 3px #435C70;
+}
+.ListHeading{
+    color:#fff;
+    padding-top:10px;
+    font-size:20px;
+    font-weight: 600;
+}
+label{
+    color:#fff;
+    font-size:18px;
+}
+.Dropdown{
+    margin-top:20px;
+    width:100%;
+    outline:none;
+    border:none;
+    padding:18px;
+    box-sizing: border-box;
+    color:#B2CEE7;
+    font-size:16px;
+    background-color:#50657B;
+}
+.Active{
+    border:3px solid #55799B;
+}
+

@@ -1,0 +1,10 @@
+.AccountsPage{
+    background-color: #4E657A;
+    padding:3% 15%;
+    height:100vh;
+}
+.SettingsWrapper{
+    display:flex;
+    margin-top:4%;
+    height:500px;
+}
